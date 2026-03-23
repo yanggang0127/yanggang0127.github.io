@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Gang Yang 杨刚  # 例如：San Zhang's Homepage
-email:yang_gang0127@csu.edu.cn
+email: yang_gang0127@csu.edu.cn
 description: >- >- 
   CS Graduate Student at Central South University. 
   Research interests include Physics-Informed Neural Networks (PINNs), KAN, and nonlinear fluid models.
